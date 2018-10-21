@@ -1,9 +1,9 @@
 ﻿**NASA International Space Apps Challenge**
-=======
+==
 **Hackathon da NASA**
-=======
+==
 Space Apps 2018 Edital
-=======
+==
 
 **www.spaceappschallenge.org**
 
@@ -84,7 +84,7 @@ https://science.nasa.gov/earth-science/earth-science-data, descreve várias font
 ![enter image description here](https://github.com/thatianaemanuelle/nasa_hackathon/blob/master/img/NASA4YOU-Blue-150.png?raw=true)
 
 
-**●  Ana Carolina Silva de Almeida**
+●  Ana Carolina Silva de Almeida
 --
 *Desenvolvedora front-end.*
 -------------
