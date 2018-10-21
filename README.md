@@ -55,9 +55,11 @@ dados, se desejar.
 O resumo de dados para pontos de dados em nuvens individuais no Sistema de Visualização GLOBE terá um link para uma página de correspondência de satélite, que indica se uma correspondência foi
 feita. Outros tipos úteis de dados (mais exemplos de fontes de satélite - consulte Recursos para os locais de dados) para comparar com as observações de base da ciência do cidadão incluem:
 
-● Clouds: Cloud Fraction (Aqua/MODIS, Terra/MODIS)
-● Mosquito Habitat Mapper: Precipitation (GPM/IMERG), Soil Moisture (SMAP), Vegetation (Landsat, Terra/MODIS), Surface Temperature (Aqua/AIRS)
-● Land Cover: Vegetation (Landsat, Terra/MODIS),
+● Clouds: Cloud Fraction (Aqua/MODIS, Terra/MODIS);
+
+● Mosquito Habitat Mapper: Precipitation (GPM/IMERG), Soil Moisture (SMAP), Vegetation (Landsat, Terra/MODIS), Surface Temperature (Aqua/AIRS);
+● Land Cover: Vegetation (Landsat, Terra/MODIS);
+
 ● Sinta-se livre para pensar criativamente! Um aplicativo de exemplo poderia criar um jogo em que os indivíduos testassem sua capacidade de conhecer um ambiente com base na visualização do espaço. O jogo daria aos jogadores uma escolha de imagens coletadas do aplicativo de cobertura terrestre e uma imagem de sensoriamento remoto óptico. Os jogadores podem escolher a imagem correta associada a esse local? Esse aplicativo ajudaria o público a se conectar com imagens de satélite e também poderia coletar dados sobre locais que são frequentemente identificados erroneamente. Esse recurso pode ser usado para descrever necessidades educacionais futuras ou identificar imagens que foram registradas incorretamente no aplicativo GLOBE.
 
 **Exemplos de Recursos**
@@ -90,22 +92,22 @@ https://science.nasa.gov/earth-science/earth-science-data, descreve várias font
 -------------
 
 
-**●  Bill Martinez **
+●  Bill Martinez
 -------------
 *Design e UX.*
 -------------
 
-**●   Juliana Augusta Ribeiro **
+●   Juliana Augusta Ribeiro
 -------------
 *Desenvolvedora front-end.*
 -------------
 
-**●   Paula Marques  **
+●   Paula Marques 
 -------------
 *Negócios e planejamento.*
 -------------
 
-**●   Thatiana Emanuelle da Cunha  **
+●   Thatiana Emanuelle da Cunha
 -------------
 *Desenvolvedora front-end.*
 -------------
