@@ -7,9 +7,8 @@ $(document).ready(function () {
   }
   insert(nasaData);
 
-  $(".ocean-page").click(function () {
+  $(".ocean").click(function () {
     event.preventDefault();
     window.location = "ocean.html"
   });
-
 });
